@@ -55,4 +55,5 @@ $ bosh deploy -d minio manifests/manifest-nas-example.yml \
 MinIO BOSH release is licensed under [GNU AFFERO GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html) 3.0 or later.
 
 ### Commercial License and Support
-For commercial license and support, please contact pivotal@min.io.
+This copy of the code has been apparently abandoned by the Minio maintainers, and has been reposted by someone who's unaffiliated with the minio project.
+To find out how you might get a supported copy of the code, and maybe a commercial license and support, see details in the the offical repo over here: <https://github.com/minio/minio-boshrelease>. (Do note that they might tell you to go away... again, I (the author of this line and the one above) am unaffiliated with the minio project.)
